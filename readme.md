@@ -1,5 +1,5 @@
-##My first pipeline 
-##Steps taken
+#My first pipeline 
+#Steps taken
 Step 1
     Created app.py using flask. The app exposes a single route (/) that rtuens a Helloo World HTML response.
 Step 2
@@ -11,5 +11,5 @@ Step 4
 Step 5
     CI/CD pipeline with Github actions. The pipeline triggers automatically on every push to  main. 
 
-##Docker Hub
+#Docker Hub
 Docker Hub image is publicly available on https://hub.docker.com/repositories/olatemilode/my-first-pipeline
